@@ -1,0 +1,45 @@
+h1{
+    color: blue;
+    font-size: 70px;
+    text-align: center;
+    text-decoration: underline;
+    border: aqua 2px solid;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.block_produit{
+    width: 200px;
+    display: inline-block;
+    border: 2px solid darkgray;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.description{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    border: 1px solid orange;
+    background-color: orange;
+}
+#conteneur{
+    background: blanchedalmond;
+    width: 900px;
+    margin: auto;
+}
+
+.prix{
+    position: absolute;
+    width: 200px;
+}
+label{
+    float: right;
+    font-size: x-large;
+    font-weight: bold;
+    color: fuchsia;
+
+}
+.erreur{
+    border: 2px red solid ;
+}
